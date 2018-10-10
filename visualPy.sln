@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "visualPy", "visualPy\visualPy.pyproj", "{E3EA88E5-DE16-4D69-BBF5-EA960DEB60AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3EA88E5-DE16-4D69-BBF5-EA960DEB60AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EA88E5-DE16-4D69-BBF5-EA960DEB60AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4ACD52-4116-49A2-BCC5-E2A33F9EBF4E}
+	EndGlobalSection
+EndGlobal
